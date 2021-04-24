@@ -12,7 +12,7 @@ The data for the 2018-19 NBA Season is sourced from various wesbites have been p
 
 1. 2018-19_nba_player-statistics.csv :  sourced from basketball-reference.com  
 
-2. 2018-19_nba_player-salaries.csv :  sourced from hoopshype.com/salaries 
+2. 2018-19_nba_player-salaries.csv :  sourced from [hoopshype.com/salaries] (hoopshype.com/salaries)  
 
 3. 2019-20_nba_team-payroll.csv : sourced from hoopshype.com/salaries 
 
