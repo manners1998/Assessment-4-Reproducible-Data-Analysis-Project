@@ -10,12 +10,12 @@ The General Manager ofthe Bulls has tasked me to find the best available startin
 ### Data
 The data for the 2018-19 NBA Season is sourced from various wesbites have been provided by Dr Jocelyn Mara as part of this project.The original source for each set is also listed below:
 
-1. 2018-19_nba_player-statistics.csv :  sourced from basketball-reference.com  
+1. 2018-19_nba_player-statistics.csv :  sourced from [basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2019_totals.html)
 
-2. 2018-19_nba_player-salaries.csv :  sourced from [hoopshype.com/salaries] (hoopshype.com/salaries)  
+2. 2018-19_nba_player-salaries.csv :  sourced from [hoopshype.com/salaries](hoopshype.com/salaries)  
 
-3. 2019-20_nba_team-payroll.csv : sourced from hoopshype.com/salaries 
+3. 2019-20_nba_team-payroll.csv : sourced from [hoopshype.com/salaries](https://hoopshype.com/salaries/)
 
-4. 2018-19_nba_team-statistics_1.csv : sourced from basketball-reference.com 
+4. 2018-19_nba_team-statistics_1.csv : sourced from [basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2019.html)
 
-5. 2018-19_nba_team-statistics_2.csv : sourced from basketball-reference.com
+5. 2018-19_nba_team-statistics_2.csv : sourced from [basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2019.html)
