@@ -19,3 +19,5 @@ The data for the 2018-19 NBA Season is sourced from various wesbites have been p
 4. 2018-19_nba_team-statistics_1.csv : sourced from [basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2019.html)
 
 5. 2018-19_nba_team-statistics_2.csv : sourced from [basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2019.html)
+
+Click [here](https://unicanberra.instructure.com/courses/9531/pages/data-description-reproducible-data-analysis-project) to to find a description of each of the variables in these data sets.
