@@ -5,7 +5,7 @@ This repository is to host an analysis project which is set out to identify the 
 ### Aim of the Data Analysis Project 
 As the data analyst for the Chicago Bulls a basketball team in the National Basketball Assosociation (NBA) I have been put in charge of analysising season 2018-2019 data to find a ideal effective starting 5. Within season 2018-2019 the Bulls place 27th out of 30 with a win loss record of 22 and 60 respectively. The budget the Bulls have for the upcoming season is $118 million, ranked 26th out of 30. For refrence, the team with the highest budget is the Portland Trailbalzers ($148 million) and the best performing team from the 2018-2019 season the Milwaukee Bucks ($131 million). 
 
-The General Manager ofthe Bulls has tasked me to find the best available starting 5 players (one from each position. It also has to be mentioned that there must still be remaining money to fill the remaining team roster. 
+The General Manager of the Bulls has tasked me to find the best available starting 5 players (one from each position. It also has to be mentioned that there must still be remaining money to fill the remaining team roster. 
 
 ### Data
 The data for the 2018-19 NBA Season is sourced from various wesbites have been provided by Dr Jocelyn Mara as part of this project.The original source for each set is also listed below:
