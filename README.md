@@ -1,4 +1,4 @@
-# Assessment-4-Reproducible-Data-Analysis-Project
+# Assessment 4: Reproducible Data Analysis Project
 
 This repository is to host an analysis project which is set out to identify the best starting 5 players for the Chicago Bulls. The Bulls have a salary of $118 million, however there must also be enough payroll leftover for the reamining bench / rotational players. 
 
