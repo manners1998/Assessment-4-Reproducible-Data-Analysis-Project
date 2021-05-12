@@ -24,6 +24,6 @@ Click [here](https://unicanberra.instructure.com/courses/9531/pages/data-descrip
 
 The process in which the data has been edited and filtered happened in a specific order to function properly:
 
-1. tidying_raw
+1. [Tidying raw](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/tidying_raw.R) 
 2. positional_analysis
 3. player_selection
