@@ -8,7 +8,7 @@ As the data analyst for the Chicago Bulls a basketball team in the National Bask
 The General Manager of the Bulls has tasked me to find the best available starting 5 players (one from each position. It also has to be mentioned that there must still be remaining money to fill the remaining team roster. 
 
 ### Data
-The data for the 2018-19 NBA Season is sourced from various wesbites have been provided by Dr Jocelyn Mara as part of this project.The original source for each set is also listed below:
+The data for the 2018-19 NBA Season is sourced from various wesbites have been provided by Dr Jocelyn Mara as part of this project. The original source for each set is also listed below:
 
 1. 2018-19_nba_player-statistics.csv :  sourced from [basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2019_totals.html)
 
