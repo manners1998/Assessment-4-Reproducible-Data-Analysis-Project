@@ -22,8 +22,9 @@ The data for the 2018-19 NBA Season is sourced from various wesbites have been p
 
 Click [here](https://unicanberra.instructure.com/courses/9531/pages/data-description-reproducible-data-analysis-project) to to find a description of each of the variables in these data sets.
 
+### Contents
 The process in which the data has been edited and filtered happened in a specific order to function properly:
 
 1. [Tidying raw](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/tidying_raw.R) 
-2. positional_analysis
-3. player_selection
+2. [Positional analysis](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/Positional%20Analysis.R)
+3. [Player selection](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/Player%20Selections.R)
