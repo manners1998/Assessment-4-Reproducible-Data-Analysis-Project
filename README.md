@@ -25,6 +25,6 @@ Click [here](https://unicanberra.instructure.com/courses/9531/pages/data-descrip
 ### Contents
 The process in which the data has been edited and filtered happened in a specific order to function properly:
 
-1. [Tidying raw](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/tidying_raw.R) 
-2. [Positional analysis](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/Positional%20Analysis.R)
-3. [Player selection](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/Player%20Selections.R)
+1. [Tidying raw](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/tidying_raw.R) - this shows the reading and tidying process of the raw data. 
+2. [Positional analysis](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/Positional%20Analysis.R) - this shows the positional breakdown and analysis of tidy data. 
+3. [Player selection](https://github.com/manners1998/Assessment-4-Reproducible-Data-Analysis-Project/blob/main/Player%20Selections.R) - this shows the process of selecting the starting line up. 
